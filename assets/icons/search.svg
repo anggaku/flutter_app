@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.414"
+   height="22.414"
+   viewBox="0 0 22.414 22.414"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="search.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="12.001428"
+     inkscape:cx="3.0825971"
+     inkscape:cy="8.0151297"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Icon_feather-search" />
+  <g
+     id="Icon_feather-search"
+     data-name="Icon feather-search"
+     transform="translate(-3.5 -3.5)"
+     opacity="0.5">
+    <path
+       id="Path_1"
+       data-name="Path 1"
+       d="M23.131,13.815A9.315,9.315,0,1,1,13.815,4.5,9.315,9.315,0,0,1,23.131,13.815Z"
+       fill="none"
+       stroke="#0c9869"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       style="fill:none;fill-opacity:1;stroke:#0c9869;stroke-opacity:1" />
+    <path
+       id="Path_2"
+       data-name="Path 2"
+       d="M29.081,29.081l-4.106-4.106"
+       transform="translate(-4.581 -4.581)"
+       fill="none"
+       stroke="#0c9869"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       style="fill:#000000;fill-opacity:1;stroke:#0c9869;stroke-opacity:1" />
+  </g>
+</svg>
